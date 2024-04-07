@@ -1,7 +1,21 @@
 {
   "Exercise": {
-    "Monday": 
-  }
+    "Bulking": {
+      "Monday": {
+        "Chest",
+        "Triceps",
+        "Shoulders"
+    },
+      "Tuesday": {
+        "Legs"
+    }, 
+      "Wednesday":{
+      }
+      
+    },
+    "Cutting"
+  } 
+}
 
 {"Chest":{
 "FlatDBPress":"https://i.pinimg.com/originals/53/cb/8b/53cb8b45e8e3d15f4eed41ed2318d6dc.png",
